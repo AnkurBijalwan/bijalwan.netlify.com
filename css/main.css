@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+
+}
+.profile-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+    box-shadow: cadetblue;
+}
+
+.site-header{
+    background-color: aquamarine;
+    color: cadetblue;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-header-content{
+    margin: 1rem;
+}
+
+.course-link{
+    color: cadetblue;
+}
